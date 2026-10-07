@@ -1,0 +1,2 @@
+# hindiacryptic
+crypticsynch
